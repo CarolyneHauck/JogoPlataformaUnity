@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Inimigo
+  - Itens
+  - Caixa
+  - Espinho
+  - esqueleto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 4128460553
+    locked: 0
+  - name: Inimigos
+    uniqueID: 3843264619
+    locked: 0
+  - name: Cenario
+    uniqueID: 496088411
+    locked: 0
+  - name: Cenario2
+    uniqueID: 3562197229
+    locked: 0
+  - name: Itens
+    uniqueID: 3921888987
+    locked: 0
+  - name: Player
+    uniqueID: 4106625227
+    locked: 0
+  - name: esqueleto
+    uniqueID: 3032065973
+    locked: 0
